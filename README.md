@@ -1,5 +1,9 @@
 
 # FP-earthquake_catalog
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cse512-21s/FP-earthquake_catalog/HEAD)
+
+Copy markdown link to clipboard 
 Team members:  
 * Ariane Ducellier
 
